@@ -1,2 +1,22 @@
 # IOT-BASED-SMART-PLANT-MONITORING-AND-CONTROL-SYSTEM
 IOT BASED SMART PLANT MONITORING AND CONTROL SYSTEM
+
+#DESCRIPTION
+IOT BASED SMART PLANT MONITORING AND CONTROL SYSTEM
+
+#COMPONENTS
+NODEMCU ESP8266
+RELAY MODULE
+WATERPUMP
+SOIL MOISTURE SENSOR
+DTH11 SENSOR
+POWER SUPPLY 
+MOBILE USER
+BLYNK IOT CLOUD
+PLANT
+
+#FEATURES
+Used in home gardening to automate plant watering.
+helps farmer irrigate small agriculture fields efficiently.
+maintain ideal moisture in greenhouse plants.
+use smart irrigation with IOT integration.
